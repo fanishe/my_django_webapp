@@ -1,1 +1,1 @@
-# my_django_webapp
+# Django webapp
